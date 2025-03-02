@@ -6,7 +6,10 @@
   "build": {
     "development": {
       "developmentClient": true,
-      "distribution": "internal"
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      }
     },
     "preview": {
       "distribution": "internal"
@@ -16,6 +19,12 @@
     }
   },
   "submit": {
-    "production": {}
+    "production": {
+      "ios": {
+        "appleId": "iamadk@gmail.com",
+        "ascAppId": "com.wgamecloud.horoscopemaster",
+        "appleTeamId": "NJ8X2Y33HE"
+      }
+    }
   }
 }
