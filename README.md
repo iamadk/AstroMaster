@@ -96,6 +96,6 @@ assets/               # 图片和其他资源
 
 ## 联系方式
 
-项目维护者 - 您的名字 - 您的邮箱
+项目维护者 - iamadk - 您的邮箱
 
-项目链接: [https://github.com/yourusername/astromaster](https://github.com/yourusername/astromaster) 
+项目链接: [https://github.com/iamadk/AstroMaster](https://github.com/iamadk/AstroMaster) 
